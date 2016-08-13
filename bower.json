@@ -10,7 +10,7 @@
     "blacklist",
     "array"
   ],
-  "homepage": "",
+  "homepage": "https://github.com/tarranjones/array-blacklist",
   "ignore": [
     "**/.*",
     "node_modules",

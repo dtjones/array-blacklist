@@ -18,18 +18,15 @@
   "devDependencies": {
     "ava": "^0.16.0"
   },
-  "dependencies": {
-    "deep": "0.0.2"
-  },
   "files": [
     "lib"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dtjones/array-blacklist.git"
+    "url": "git+https://github.com/tarranjones/array-blacklist.git"
   },
   "bugs": {
-    "url": "https://github.com/dtjones/array-blacklist/issues"
+    "url": "https://github.com/tarranjones/array-blacklist/issues"
   },
-  "homepage": "https://github.com/dtjones/array-blacklist#readme"
+  "homepage": "https://github.com/tarranjones/array-blacklist#readme"
 }
