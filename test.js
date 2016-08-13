@@ -12,10 +12,10 @@ import test from 'ava';
 import array_blacklist from './';
 
 
-var userInputArray = ['ok','good', 'great', 1, 'bad', 'evil',0,'zero',[],{}];
+var userInputArray = ['ok','good', 'great', 1, 'bad', 'evil',0,'zero'];
 var defaultRestrictions = ['bad', 'evil'];
-var moreRestrictions = [0,[]];
-var evenMoreRestrictions = ['zero',{}];
+var moreRestrictions = [0];
+var evenMoreRestrictions = ['zero'];
 
 test('multiple args test', t => {
 	var cleanArray = array_blacklist(userInputArray, defaultRestrictions, moreRestrictions, evenMoreRestrictions);

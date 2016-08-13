@@ -21,7 +21,15 @@
   "dependencies": {
     "deep": "0.0.2"
   },
-   "files": [
+  "files": [
     "lib"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtjones/array-blacklist.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dtjones/array-blacklist/issues"
+  },
+  "homepage": "https://github.com/dtjones/array-blacklist#readme"
 }
