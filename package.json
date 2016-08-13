@@ -1,0 +1,27 @@
+{
+  "name": "array_blacklist",
+  "version": "1.0.0",
+  "description": "Remove \"blacklisted\" items from an array. ",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "blacklist",
+    "array"
+  ],
+  "author": "Tarran Jones",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  },
+  "dependencies": {
+    "deep": "0.0.2"
+  },
+   "files": [
+    "lib"
+  ]
+}
