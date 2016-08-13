@@ -1,1 +1,1 @@
-module.exports = require('./lib/array_blacklist');
+module.exports = require('./lib/array-blacklist');

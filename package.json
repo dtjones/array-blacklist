@@ -1,5 +1,5 @@
 {
-  "name": "array_blacklist",
+  "name": "array-blacklist",
   "version": "1.0.0",
   "description": "Remove \"blacklisted\" items from an array. ",
   "main": "index.js",
